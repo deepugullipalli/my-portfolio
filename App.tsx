@@ -1,4 +1,4 @@
-import profilePic from './assets/profile.jpeg';
+import profilePic from './assets/images/profile.jpeg';
 import { Menu, User, Mail, Phone, MapPin, Award, Briefcase, Book, Linkedin, GraduationCap, Code, Leaf } from 'lucide-react';
 
 const App: React.FC = () => {
